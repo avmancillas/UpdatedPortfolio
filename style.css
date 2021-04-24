@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(13 110 253 / 25%);
+}
+
+.h2{
+    font-weight: 30px;
+}
+.contactIcons{
+    font-size: larger;
+}
+header{
+    padding: 0px;
+    margin:0;
+    line-height:1;
+}
+
+header h1{
+    background-color: bisque;
+    font-family:400 130px/0.8 'Cookie', Helvetica, sans-serif;
+    font-size: 75px;
+    text-align: center;
+    margin:0;
+    box-sizing: border-box;
+    font-weight: bold;
+}
+
+.h3,h3{
+    text-align: center;
+
+}
+a{
+    color: black;
+    font-size: 20px;
+}
+
+.card.w-75{
+    background-image: url("/Users/avi/Desktop/github/Week8/02-Homework/Assets/photo4.jpeg");
+    background-size: 90px;
+}
